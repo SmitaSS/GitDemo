@@ -22,4 +22,10 @@ public class SeleniumTest {
 	{
 		System.out.println("ElementsUI11");
 	}
+	@Test
+	public void ElementsUIs11()
+	{
+		System.out.println("ElementsUI11as");
+	}
+	
 }
